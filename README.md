@@ -1,3 +1,5 @@
+**English** | [Русский](README_RU.md)
+
 # Vistarel — Fast Modern Image Viewer for Windows
 
 **Vistarel is a fast, lightweight native image viewer for Windows 10/11 with image comparison, batch processing, magnifier and color inspection tools.**
